@@ -1,0 +1,6 @@
+SELECT TOP (1000) [TransactionID]
+      ,[Traxndatetime]
+      ,[CustomerID]
+      ,[ProductID]
+      ,[Paymentstatus]
+  FROM [DB].[dbo].[TransactionDetails]

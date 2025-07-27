@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ProductID]
+      ,[ProductName]
+      ,[Price]
+      ,[Discount]
+      ,[Descriptionproduct]
+  FROM [DB].[dbo].[ProductDetails]

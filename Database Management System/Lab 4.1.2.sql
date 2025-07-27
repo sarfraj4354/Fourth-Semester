@@ -1,0 +1,7 @@
+SELECT TOP (1000) [CustomerID]
+      ,[CustomerName]
+      ,[Email]
+      ,[Mobile]
+      ,[DOB]
+      ,[Address]
+  FROM [DB].[dbo].[CustomerDetails]
